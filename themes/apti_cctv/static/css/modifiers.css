@@ -15,3 +15,29 @@
 .huge-padding {
   padding: 400px 0px;
 }
+
+.gradient {
+
+  /* can be treated like a fallback */
+  background-color: black;
+
+  /* will be "on top", if browser supports it */
+  background-image: linear-gradient(white, black);
+
+  /* these will reset other properties, like background-position, but it does know what you mean */
+  background: black;
+  background: linear-gradient(white, black);
+
+  margin: 0px;
+
+}
+
+.large-block {
+  height: 5000px;
+}
+
+.small-block {
+  height: 800px;
+  background-color: black;
+  background: black;
+}
