@@ -5,21 +5,19 @@ layout: about
 draft: "false"
 ---
 
-The **Protocol for Planned Disconnect** has been collectively created by the group of authors named below.
-
-The group has worked together in the **Climate and Tech Politics** workshop at Berliner Gazette's **After Extractivism** conference.
-
----
-
 Technology is not a panacea, but a tool that must be chosen and used strategically. 
+
+**The Protocol for Planned Disconnect** is an Open Source technology that can be used by groups or individuals. Its purpose is to provide a learning journey for everyone who wants to reflect on the deeper connection between technology and nature. You are invited to share it in your communities.
 
 This also becomes clear when facing the climate catastrophe. Hence, the claim in this context must be two-fold: climate and tech activism. The first has slowly entered public consciousness, but the latter is usually dismissed, as digital technologies are considered “clean.” 
 
 The high energy consumption of running data centers, manufacturing smartphones, streaming videos, etc. is underestimated and ignored. So, what does it mean to politicize digital technologies in the face of mutually fueling crises without letting their use become part of the problem or even detrimental to its solution? 
 
-**The Protocol for Planned Disconnect** is an Open Source technology that can be used by groups or individuals. Its purpose is to provide a learning journey for everyone who wants to reflect on the deeper connection between technology and nature. You are invited to share it in your communities.
-
 ---
+
+The **Protocol for Planned Disconnect** has been collectively created by the group of authors named below.
+
+The group has worked together in the **Climate and Tech Politics** workshop at Berliner Gazette's **After Extractivism** conference.
 
 ## Facilitators
 
