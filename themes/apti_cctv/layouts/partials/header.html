@@ -1,0 +1,32 @@
+<div class="container">
+    <nav class="navbar is-size-5" role="navigation" aria-label="main navigation">
+        <div class="navbar-brand">
+            <a class="navbar-item has-text-weight-semibold" href="/">
+                <i class="fa fa-battery-empty fa-4x blink" aria-hidden="true"></i>
+            </a>
+            <a class="navbar-item has-text-weight-semibold is-size-3 is-hidden-mobile" href="/">
+                Protocol for Planned Disconnect
+            </a>
+
+            <a role="button" class="navbar-burger" aria-label="menu" aria-expanded="false" data-target="navbarMain">
+                <span aria-hidden="true"></span>
+                <span aria-hidden="true"></span>
+                <span aria-hidden="true"></span>
+            </a>
+        </div>
+
+        <div class="navbar-menu" id="navbarMain">
+            <div class="navbar-end has-text-centered-touch">
+
+                {{ range .Site.Menus.main }}
+                <a class="navbar-item" href="{{ .URL }}">
+                    {{ $text := print .Name | safeHTML }}
+                    {{ $text }}
+                </a>
+                {{ end }}
+
+            </div>
+        </div>
+
+    </nav>
+</div>
