@@ -25,7 +25,7 @@ The group has worked together in the **Climate and Tech Politics** workshop at B
 ### Ela Kagel  
 
 **Email**:[ela@supermarkt-berlin.net](mailto:ela@supermarkt-berlin.net)  
-Ela is co-founder and managing partner of SUPERMARKT Berlin, a community hub & platform for digital culture & commons-based economies. Ela has a special interest in exploring self-organisation, collaboration and organizational design. She is board member of Platform Cooperatives Germany, an umbrella organisation for emerging platform coops. Ela has initiated MoneyLab Berlin and works as a governance advisor for the Circles Coop, a digital, people-powered money system.  
+Ela is co-founder and managing partner of SUPERMARKT Berlin, a community hub & platform for digital culture & commons-based economies. Ela has a special interest in exploring self-organization, collaboration and organizational design. She is board member of Platform Cooperatives Germany, an umbrella organization for emerging platform coops. Ela has initiated MoneyLab Berlin and works as a governance advisor for the Circles Coop, a digital, people-powered money system.  
 
 ### Claudia Núñez  
 
